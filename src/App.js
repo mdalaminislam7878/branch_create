@@ -2,7 +2,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>App Component</h1>
+        <h1>Change it</h1>
       </header>
     </div>
   );
